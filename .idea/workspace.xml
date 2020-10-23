@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0da6abdc-c002-4b82-97c7-1410d5041c7c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/demo.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/kickstarter_data.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectId" id="1ZWPRrh04LsN4DUo2Fpo1hcvpzk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="D:/path" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.demo">
+    <configuration name="demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="kickstarter_data" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="kickstarter_data" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="kickstarter_data" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kickstarter_data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.demo" />
+        <item itemvalue="Python.kickstarter_data" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0da6abdc-c002-4b82-97c7-1410d5041c7c" name="Default Changelist" comment="" />
+      <created>1584951871459</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584951871459</updated>
+      <workItem from="1584951872597" duration="7554000" />
+      <workItem from="1584974582801" duration="19572000" />
+      <workItem from="1585036387456" duration="2566000" />
+      <workItem from="1585039156853" duration="6226000" />
+      <workItem from="1585062876206" duration="5790000" />
+      <workItem from="1585101442310" duration="45125000" />
+      <workItem from="1585223870825" duration="7580000" />
+      <workItem from="1585588501766" duration="1834000" />
+      <workItem from="1585622786449" duration="7357000" />
+      <workItem from="1601189063782" duration="3513000" />
+      <workItem from="1602665962480" duration="1330000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1537" height="275" key="GridCell.Tab.0.bottom" timestamp="1585638144092">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1537" height="275" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1585638144092" />
+    <state width="1537" height="275" key="GridCell.Tab.0.center" timestamp="1585638144092">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1537" height="275" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1585638144092" />
+    <state width="1537" height="275" key="GridCell.Tab.0.left" timestamp="1585638144092">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1537" height="275" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1585638144092" />
+    <state width="1537" height="275" key="GridCell.Tab.0.right" timestamp="1585638144092">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1537" height="275" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1585638144092" />
+    <state width="1537" height="275" key="GridCell.Tab.1.bottom" timestamp="1585638144092">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1537" height="275" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1585638144092" />
+    <state width="1537" height="275" key="GridCell.Tab.1.center" timestamp="1585638144092">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1537" height="275" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1585638144092" />
+    <state width="1537" height="275" key="GridCell.Tab.1.left" timestamp="1585638144092">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1537" height="275" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1585638144092" />
+    <state width="1537" height="275" key="GridCell.Tab.1.right" timestamp="1585638144092">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1537" height="275" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1585638144092" />
+    <state x="154" y="0" key="SettingsEditor" timestamp="1584951886570">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="154" y="0" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1584951886570" />
+    <state x="347" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1584951959987">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="347" y="-1" width="840" height="1034" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1584951959987" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/kickstarter_data$demo.coverage" NAME="demo Coverage Results" MODIFIED="1585629143586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/kickstarter_data$kickstarter_data.coverage" NAME="kickstarter_data Coverage Results" MODIFIED="1585588611944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
