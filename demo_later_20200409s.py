@@ -102,7 +102,7 @@ for i in files:
                
                
                 if id == id:
-                    with open("D:\\TMH\\data_kickstarter\\"+id+".csv",'a',encoding='utf-8',newline='') as d: #
+                    with open("D:\\TMH\\demodata\\"+id+".csv",'a',encoding='utf-8',newline='') as d: #
                         writer = csv.writer(d)
                         writer.writerow([date, id, name, ref, money, percent,country_s,goal_s,currency_s,backer_s,lt,dl])#add country
            
