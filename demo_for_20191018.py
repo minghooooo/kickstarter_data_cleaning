@@ -32,7 +32,7 @@ for i in files:
             for date in dates:
                 pass
                 # print(date)
-            content2 = soup.find_all('div',class_="js-react-proj-card grid-col-12 grid-col-6-sm grid-col-4-lg")#add country div@class
+            content2 = soup.find_all('div',class_="js-react-proj-card grid-col-12 grid-col-6-sm grid-col-4-lg")
             for c2 in content2:
                 c2_s=str(c2).replace('&quot;','\"')
                 # print(c2_s)
@@ -58,7 +58,10 @@ for i in files:
                 # country = re.findall(pattern0,c2_s)
                 # country_s = str(country).replace('[','').replace('\'','').replace(']','')
                 # print(country_s)
+                #
 
+
+                #主要是改country
                 pattern0 = re.compile('"disable_communication":.*?,"country":"(.*?)"',re.S)
                 country = re.findall(pattern0,c2_s)
                 country_s = str(country).replace('[','').replace('\'','').replace(']','')
@@ -102,7 +105,7 @@ for i in files:
                
                
                 if id == id:
-                    with open("D:\\TMH\\data_kickstarter\\"+id+".csv",'a',encoding='utf-8',newline='') as d: #
+                    with open("D:\\TMH\\demodata\\"+id+".csv",'a',encoding='utf-8',newline='') as d: #
                         writer = csv.writer(d)
                         writer.writerow([date, id, name, ref, money, percent,country_s,goal_s,currency_s,backer_s,lt,dl])#add country
            
